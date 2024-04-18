@@ -11,5 +11,5 @@ Núŋpa čhiŋkšiwičhawaye. I have two sons, 4 and 5, who are the motivation 
 I'm interested in building my coding skills to apply to my research project and other future projects.
 
 ### Contact Info
-* [Email](sdupree27886@olc.edu)
-* [Github Account](https://github.com/sdupree27886)
+* <a href = "mailto:sdupree27886@olc.edu" target="_blank">**Email** </a>
+* [**Github**](https://github.com/sdupree27886)
