@@ -1,3 +1,5 @@
+<img src="AIHEC_headshot_cropped.JPG>
+
 # Summer Dupree
 
 Haŋ, mitákuyepi! Čhaŋtéwasteya nape ičiyuzapi kšto. Summer Dupree emáčiyapi. Mnikȟówožu Lakȟóta wiŋmáyaŋ na Wakpá Wašte Oyáŋke hemataŋhaŋ.
