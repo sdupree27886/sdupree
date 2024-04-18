@@ -8,5 +8,8 @@ Hello, relatives! I shake your hand with a good heart. My name is Summer Dupree.
 Núŋpa čhiŋkšiwičhawaye. I have two sons, 4 and 5, who are the motivation behind all I do. In my free time,  I enjoy being outside with them, walking, running, hiking, swimming, etc. I also like to read, listen to music, and I'm always up to learn something new! 
 
 ### Earth Data Science
+I'm interested in building my coding skills to apply to my research project and other future projects.
 
 ### Contact Info
+* [Email](sdupree27886@olc.edu)
+* [Github Account](https://github.com/sdupree27886)
