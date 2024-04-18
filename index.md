@@ -1,4 +1,4 @@
-<img src="AIHEC_headshot_cropped.JPG>
+<img src="AIHEC_headshot_cropped.png>
 
 # Summer Dupree
 
